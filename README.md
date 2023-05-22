@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Enfycius&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Stay%20Hungry,%20Stay%20Foolish&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Clionid&fontSize=90&animation=fadeIn&fontAlignY=38&desc=your%20capacity%20to%20enjoy%20life&descAlignY=55&descAlign=62)
 
-:wave: Hello, I'm JongHyeok Kim, an senior undergraduate student at Hanbat National University.
+:wave: Hello I'm Clionid. 
 
 Previously, I investigated Deep Learning at the Construction IT Labs and at the Department of Basic Science, Hanbat National University.
 
